@@ -1445,13 +1445,13 @@ dev = ["autoflake", "black", "duckdb (>=0.6)", "isort", "mypy (>=0.990)", "panda
 
 [[package]]
 name = "sqlmesh"
-version = "0.44.1"
+version = "0.44.2"
 description = ""
 optional = false
 python-versions = "*"
 files = [
-    {file = "sqlmesh-0.44.1-py3-none-any.whl", hash = "sha256:e85156f37ab520432f4414c78c7a809875de4897c72351c8425a8cb57a0cae93"},
-    {file = "sqlmesh-0.44.1.tar.gz", hash = "sha256:efc04e97a3ea2ebd0765ac5262973fc99ea8ff07a37920c2003a23d97c7eca2e"},
+    {file = "sqlmesh-0.44.2-py3-none-any.whl", hash = "sha256:427f026910781b0976169a82eaad317b934e777758bc657fc925cb076d148cf5"},
+    {file = "sqlmesh-0.44.2.tar.gz", hash = "sha256:d6d123b4c178656e37c097c7d8f5a8f99e92c6eb24446943815fa42dfdb9df45"},
 ]
 
 [package.dependencies]

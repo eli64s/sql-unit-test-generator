@@ -4367,144 +4367,110 @@ sqlmesh_test_suite_id:
           loan_id: 480
         - average_amount: 766123.0
           loan_id: 485
-        - average_amount: 109983.0
-          loan_id: 5
-        - average_amount: 308912.0
-          loan_id: 9
-        - average_amount: 856020.0
-          loan_id: 14
-        - average_amount: 999848.0
-          loan_id: 17
-        - average_amount: 843547.0
-          loan_id: 30
-        - average_amount: 63107.0
-          loan_id: 35
-        - average_amount: 888022.0
-          loan_id: 37
-        - average_amount: 983659.0
-          loan_id: 44
-        - average_amount: 372482.0
-          loan_id: 54
-        - average_amount: 294767.0
-          loan_id: 62
-        - average_amount: 148410.0
-          loan_id: 64
-        - average_amount: 590774.0
-          loan_id: 65
-        - average_amount: 806149.0
-          loan_id: 75
-        - average_amount: 634132.0
-          loan_id: 79
-        - average_amount: 544685.0
-          loan_id: 85
-        - average_amount: 660031.0
-          loan_id: 96
-        - average_amount: 270480.0
-          loan_id: 104
-        - average_amount: 757537.0
-          loan_id: 114
-        - average_amount: 24780.0
-          loan_id: 115
-        - average_amount: 605880.0
-          loan_id: 135
-        - average_amount: 25965.0
-          loan_id: 143
-        - average_amount: 107651.0
-          loan_id: 154
-        - average_amount: 612855.0
-          loan_id: 160
-        - average_amount: 251676.0
-          loan_id: 162
-        - average_amount: 266363.0
-          loan_id: 165
-        - average_amount: 682596.0
-          loan_id: 168
-        - average_amount: 145180.0
-          loan_id: 172
-        - average_amount: 239541.0
-          loan_id: 177
-        - average_amount: 221214.0
-          loan_id: 184
-        - average_amount: 13215.0
-          loan_id: 189
-        - average_amount: 384283.0
-          loan_id: 194
-        - average_amount: 601755.0
-          loan_id: 198
-        - average_amount: 204394.0
-          loan_id: 205
-        - average_amount: 527053.0
-          loan_id: 213
-        - average_amount: 460279.0
-          loan_id: 224
-        - average_amount: 34461.0
-          loan_id: 225
-        - average_amount: 747794.0
-          loan_id: 229
-        - average_amount: 969594.0
-          loan_id: 235
-        - average_amount: 610572.0
-          loan_id: 237
-        - average_amount: 579517.0
-          loan_id: 255
-        - average_amount: 955642.0
-          loan_id: 257
-        - average_amount: 845823.0
-          loan_id: 264
-        - average_amount: 606527.0
-          loan_id: 273
-        - average_amount: 197533.0
-          loan_id: 287
-        - average_amount: 515406.0
-          loan_id: 288
-        - average_amount: 377292.0
-          loan_id: 323
-        - average_amount: 609207.0
-          loan_id: 326
-        - average_amount: 626546.0
-          loan_id: 332
-        - average_amount: 642809.0
-          loan_id: 341
-        - average_amount: 218090.0
-          loan_id: 360
-        - average_amount: 716632.0
-          loan_id: 366
-        - average_amount: 551161.0
-          loan_id: 371
-        - average_amount: 653067.0
-          loan_id: 374
-        - average_amount: 483808.0
-          loan_id: 379
-        - average_amount: 504151.0
-          loan_id: 383
-        - average_amount: 202758.0
-          loan_id: 408
-        - average_amount: 191640.0
-          loan_id: 409
-        - average_amount: 8659.0
-          loan_id: 419
-        - average_amount: 934632.0
-          loan_id: 422
-        - average_amount: 57621.0
-          loan_id: 423
-        - average_amount: 153574.0
-          loan_id: 444
-        - average_amount: 464845.0
-          loan_id: 457
-        - average_amount: 463896.0
-          loan_id: 458
-        - average_amount: 425025.0
-          loan_id: 462
-        - average_amount: 783980.0
-          loan_id: 482
-        - average_amount: 877772.0
-          loan_id: 486
-        - average_amount: 48698.0
-          loan_id: 496
-        - average_amount: 311505.0
-          loan_id: 498
-        - average_amount: 441.0
-          loan_id: 500
+        - average_amount: 368128.0
+          loan_id: 1
+        - average_amount: 52466.0
+          loan_id: 21
+        - average_amount: 872401.0
+          loan_id: 25
+        - average_amount: 96024.0
+          loan_id: 78
+        - average_amount: 38535.0
+          loan_id: 87
+        - average_amount: 898282.0
+          loan_id: 95
+        - average_amount: 27948.0
+          loan_id: 99
+        - average_amount: 115072.0
+          loan_id: 100
+        - average_amount: 322792.0
+          loan_id: 106
+        - average_amount: 172645.0
+          loan_id: 121
+        - average_amount: 555360.0
+          loan_id: 123
+        - average_amount: 980082.0
+          loan_id: 133
+        - average_amount: 881504.0
+          loan_id: 141
+        - average_amount: 526137.0
+          loan_id: 148
+        - average_amount: 560379.0
+          loan_id: 157
+        - average_amount: 479025.0
+          loan_id: 214
+        - average_amount: 993685.0
+          loan_id: 219
+        - average_amount: 369964.0
+          loan_id: 221
+        - average_amount: 681023.0
+          loan_id: 226
+        - average_amount: 266861.0
+          loan_id: 227
+        - average_amount: 45512.0
+          loan_id: 233
+        - average_amount: 408039.0
+          loan_id: 245
+        - average_amount: 567858.0
+          loan_id: 247
+        - average_amount: 981867.0
+          loan_id: 252
+        - average_amount: 417788.0
+          loan_id: 260
+        - average_amount: 993147.0
+          loan_id: 263
+        - average_amount: 333399.0
+          loan_id: 269
+        - average_amount: 780816.0
+          loan_id: 276
+        - average_amount: 237688.0
+          loan_id: 278
+        - average_amount: 868099.0
+          loan_id: 291
+        - average_amount: 107964.0
+          loan_id: 300
+        - average_amount: 434121.0
+          loan_id: 302
+        - average_amount: 869196.0
+          loan_id: 305
+        - average_amount: 529850.0
+          loan_id: 322
+        - average_amount: 231224.0
+          loan_id: 331
+        - average_amount: 573865.0
+          loan_id: 334
+        - average_amount: 346548.0
+          loan_id: 346
+        - average_amount: 575801.0
+          loan_id: 352
+        - average_amount: 980747.0
+          loan_id: 353
+        - average_amount: 696511.0
+          loan_id: 376
+        - average_amount: 377209.0
+          loan_id: 384
+        - average_amount: 296721.0
+          loan_id: 399
+        - average_amount: 772414.0
+          loan_id: 400
+        - average_amount: 326607.0
+          loan_id: 404
+        - average_amount: 750691.0
+          loan_id: 411
+        - average_amount: 972581.0
+          loan_id: 414
+        - average_amount: 474622.0
+          loan_id: 417
+        - average_amount: 184483.0
+          loan_id: 431
+        - average_amount: 342501.0
+          loan_id: 435
+        - average_amount: 459607.0
+          loan_id: 449
+        - average_amount: 852339.0
+          loan_id: 483
+        - average_amount: 415654.0
+          loan_id: 493
         - average_amount: 514491.0
           loan_id: 42
         - average_amount: 943915.0
@@ -4623,6 +4589,126 @@ sqlmesh_test_suite_id:
           loan_id: 490
         - average_amount: 479680.0
           loan_id: 494
+        - average_amount: 205487.0
+          loan_id: 4
+        - average_amount: 96243.0
+          loan_id: 23
+        - average_amount: 562495.0
+          loan_id: 24
+        - average_amount: 28778.0
+          loan_id: 33
+        - average_amount: 600218.0
+          loan_id: 40
+        - average_amount: 583528.0
+          loan_id: 43
+        - average_amount: 442648.0
+          loan_id: 45
+        - average_amount: 394358.0
+          loan_id: 51
+        - average_amount: 705348.0
+          loan_id: 53
+        - average_amount: 326884.0
+          loan_id: 56
+        - average_amount: 967563.0
+          loan_id: 72
+        - average_amount: 846182.0
+          loan_id: 111
+        - average_amount: 277455.0
+          loan_id: 113
+        - average_amount: 221156.0
+          loan_id: 120
+        - average_amount: 839844.0
+          loan_id: 126
+        - average_amount: 73754.0
+          loan_id: 136
+        - average_amount: 197369.0
+          loan_id: 138
+        - average_amount: 400546.0
+          loan_id: 151
+        - average_amount: 601750.0
+          loan_id: 161
+        - average_amount: 273141.0
+          loan_id: 171
+        - average_amount: 226333.0
+          loan_id: 176
+        - average_amount: 343569.0
+          loan_id: 188
+        - average_amount: 867234.0
+          loan_id: 193
+        - average_amount: 423375.0
+          loan_id: 196
+        - average_amount: 902205.0
+          loan_id: 197
+        - average_amount: 638796.0
+          loan_id: 202
+        - average_amount: 847425.0
+          loan_id: 203
+        - average_amount: 320290.0
+          loan_id: 206
+        - average_amount: 845909.0
+          loan_id: 232
+        - average_amount: 398490.0
+          loan_id: 234
+        - average_amount: 85201.0
+          loan_id: 258
+        - average_amount: 808494.0
+          loan_id: 265
+        - average_amount: 489662.0
+          loan_id: 271
+        - average_amount: 855705.0
+          loan_id: 281
+        - average_amount: 730037.0
+          loan_id: 283
+        - average_amount: 655997.0
+          loan_id: 284
+        - average_amount: 753954.0
+          loan_id: 290
+        - average_amount: 390129.0
+          loan_id: 292
+        - average_amount: 557399.0
+          loan_id: 295
+        - average_amount: 710012.0
+          loan_id: 315
+        - average_amount: 679544.0
+          loan_id: 333
+        - average_amount: 564184.0
+          loan_id: 345
+        - average_amount: 796735.0
+          loan_id: 349
+        - average_amount: 601440.0
+          loan_id: 372
+        - average_amount: 954577.0
+          loan_id: 373
+        - average_amount: 981249.0
+          loan_id: 382
+        - average_amount: 292401.0
+          loan_id: 389
+        - average_amount: 796848.0
+          loan_id: 398
+        - average_amount: 834419.0
+          loan_id: 421
+        - average_amount: 511577.0
+          loan_id: 424
+        - average_amount: 741955.0
+          loan_id: 425
+        - average_amount: 22047.0
+          loan_id: 430
+        - average_amount: 70489.0
+          loan_id: 437
+        - average_amount: 694297.0
+          loan_id: 446
+        - average_amount: 93605.0
+          loan_id: 456
+        - average_amount: 488113.0
+          loan_id: 465
+        - average_amount: 533084.0
+          loan_id: 469
+        - average_amount: 843853.0
+          loan_id: 473
+        - average_amount: 395963.0
+          loan_id: 492
+        - average_amount: 172940.0
+          loan_id: 495
         - average_amount: 277424.0
           loan_id: 2
         - average_amount: 473750.0
@@ -4885,230 +4971,6 @@ sqlmesh_test_suite_id:
           loan_id: 468
         - average_amount: 328890.0
           loan_id: 478
-        - average_amount: 368128.0
-          loan_id: 1
-        - average_amount: 52466.0
-          loan_id: 21
-        - average_amount: 872401.0
-          loan_id: 25
-        - average_amount: 96024.0
-          loan_id: 78
-        - average_amount: 38535.0
-          loan_id: 87
-        - average_amount: 898282.0
-          loan_id: 95
-        - average_amount: 27948.0
-          loan_id: 99
-        - average_amount: 115072.0
-          loan_id: 100
-        - average_amount: 322792.0
-          loan_id: 106
-        - average_amount: 172645.0
-          loan_id: 121
-        - average_amount: 555360.0
-          loan_id: 123
-        - average_amount: 980082.0
-          loan_id: 133
-        - average_amount: 881504.0
-          loan_id: 141
-        - average_amount: 526137.0
-          loan_id: 148
-        - average_amount: 560379.0
-          loan_id: 157
-        - average_amount: 479025.0
-          loan_id: 214
-        - average_amount: 993685.0
-          loan_id: 219
-        - average_amount: 369964.0
-          loan_id: 221
-        - average_amount: 681023.0
-          loan_id: 226
-        - average_amount: 266861.0
-          loan_id: 227
-        - average_amount: 45512.0
-          loan_id: 233
-        - average_amount: 408039.0
-          loan_id: 245
-        - average_amount: 567858.0
-          loan_id: 247
-        - average_amount: 981867.0
-          loan_id: 252
-        - average_amount: 417788.0
-          loan_id: 260
-        - average_amount: 993147.0
-          loan_id: 263
-        - average_amount: 333399.0
-          loan_id: 269
-        - average_amount: 780816.0
-          loan_id: 276
-        - average_amount: 237688.0
-          loan_id: 278
-        - average_amount: 868099.0
-          loan_id: 291
-        - average_amount: 107964.0
-          loan_id: 300
-        - average_amount: 434121.0
-          loan_id: 302
-        - average_amount: 869196.0
-          loan_id: 305
-        - average_amount: 529850.0
-          loan_id: 322
-        - average_amount: 231224.0
-          loan_id: 331
-        - average_amount: 573865.0
-          loan_id: 334
-        - average_amount: 346548.0
-          loan_id: 346
-        - average_amount: 575801.0
-          loan_id: 352
-        - average_amount: 980747.0
-          loan_id: 353
-        - average_amount: 696511.0
-          loan_id: 376
-        - average_amount: 377209.0
-          loan_id: 384
-        - average_amount: 296721.0
-          loan_id: 399
-        - average_amount: 772414.0
-          loan_id: 400
-        - average_amount: 326607.0
-          loan_id: 404
-        - average_amount: 750691.0
-          loan_id: 411
-        - average_amount: 972581.0
-          loan_id: 414
-        - average_amount: 474622.0
-          loan_id: 417
-        - average_amount: 184483.0
-          loan_id: 431
-        - average_amount: 342501.0
-          loan_id: 435
-        - average_amount: 459607.0
-          loan_id: 449
-        - average_amount: 852339.0
-          loan_id: 483
-        - average_amount: 415654.0
-          loan_id: 493
-        - average_amount: 205487.0
-          loan_id: 4
-        - average_amount: 96243.0
-          loan_id: 23
-        - average_amount: 562495.0
-          loan_id: 24
-        - average_amount: 28778.0
-          loan_id: 33
-        - average_amount: 600218.0
-          loan_id: 40
-        - average_amount: 583528.0
-          loan_id: 43
-        - average_amount: 442648.0
-          loan_id: 45
-        - average_amount: 394358.0
-          loan_id: 51
-        - average_amount: 705348.0
-          loan_id: 53
-        - average_amount: 326884.0
-          loan_id: 56
-        - average_amount: 967563.0
-          loan_id: 72
-        - average_amount: 846182.0
-          loan_id: 111
-        - average_amount: 277455.0
-          loan_id: 113
-        - average_amount: 221156.0
-          loan_id: 120
-        - average_amount: 839844.0
-          loan_id: 126
-        - average_amount: 73754.0
-          loan_id: 136
-        - average_amount: 197369.0
-          loan_id: 138
-        - average_amount: 400546.0
-          loan_id: 151
-        - average_amount: 601750.0
-          loan_id: 161
-        - average_amount: 273141.0
-          loan_id: 171
-        - average_amount: 226333.0
-          loan_id: 176
-        - average_amount: 343569.0
-          loan_id: 188
-        - average_amount: 867234.0
-          loan_id: 193
-        - average_amount: 423375.0
-          loan_id: 196
-        - average_amount: 902205.0
-          loan_id: 197
-        - average_amount: 638796.0
-          loan_id: 202
-        - average_amount: 847425.0
-          loan_id: 203
-        - average_amount: 320290.0
-          loan_id: 206
-        - average_amount: 845909.0
-          loan_id: 232
-        - average_amount: 398490.0
-          loan_id: 234
-        - average_amount: 85201.0
-          loan_id: 258
-        - average_amount: 808494.0
-          loan_id: 265
-        - average_amount: 489662.0
-          loan_id: 271
-        - average_amount: 855705.0
-          loan_id: 281
-        - average_amount: 730037.0
-          loan_id: 283
-        - average_amount: 655997.0
-          loan_id: 284
-        - average_amount: 753954.0
-          loan_id: 290
-        - average_amount: 390129.0
-          loan_id: 292
-        - average_amount: 557399.0
-          loan_id: 295
-        - average_amount: 710012.0
-          loan_id: 315
-        - average_amount: 679544.0
-          loan_id: 333
-        - average_amount: 564184.0
-          loan_id: 345
-        - average_amount: 796735.0
-          loan_id: 349
-        - average_amount: 601440.0
-          loan_id: 372
-        - average_amount: 954577.0
-          loan_id: 373
-        - average_amount: 981249.0
-          loan_id: 382
-        - average_amount: 292401.0
-          loan_id: 389
-        - average_amount: 796848.0
-          loan_id: 398
-        - average_amount: 834419.0
-          loan_id: 421
-        - average_amount: 511577.0
-          loan_id: 424
-        - average_amount: 741955.0
-          loan_id: 425
-        - average_amount: 22047.0
-          loan_id: 430
-        - average_amount: 70489.0
-          loan_id: 437
-        - average_amount: 694297.0
-          loan_id: 446
-        - average_amount: 93605.0
-          loan_id: 456
-        - average_amount: 488113.0
-          loan_id: 465
-        - average_amount: 533084.0
-          loan_id: 469
-        - average_amount: 843853.0
-          loan_id: 473
-        - average_amount: 395963.0
-          loan_id: 492
-        - average_amount: 172940.0
-          loan_id: 495
         - average_amount: 411966.0
           loan_id: 3
         - average_amount: 659402.0
@@ -5233,6 +5095,144 @@ sqlmesh_test_suite_id:
           loan_id: 488
         - average_amount: 528467.0
           loan_id: 499
+        - average_amount: 109983.0
+          loan_id: 5
+        - average_amount: 308912.0
+          loan_id: 9
+        - average_amount: 856020.0
+          loan_id: 14
+        - average_amount: 999848.0
+          loan_id: 17
+        - average_amount: 843547.0
+          loan_id: 30
+        - average_amount: 63107.0
+          loan_id: 35
+        - average_amount: 888022.0
+          loan_id: 37
+        - average_amount: 983659.0
+          loan_id: 44
+        - average_amount: 372482.0
+          loan_id: 54
+        - average_amount: 294767.0
+          loan_id: 62
+        - average_amount: 148410.0
+          loan_id: 64
+        - average_amount: 590774.0
+          loan_id: 65
+        - average_amount: 806149.0
+          loan_id: 75
+        - average_amount: 634132.0
+          loan_id: 79
+        - average_amount: 544685.0
+          loan_id: 85
+        - average_amount: 660031.0
+          loan_id: 96
+        - average_amount: 270480.0
+          loan_id: 104
+        - average_amount: 757537.0
+          loan_id: 114
+        - average_amount: 24780.0
+          loan_id: 115
+        - average_amount: 605880.0
+          loan_id: 135
+        - average_amount: 25965.0
+          loan_id: 143
+        - average_amount: 107651.0
+          loan_id: 154
+        - average_amount: 612855.0
+          loan_id: 160
+        - average_amount: 251676.0
+          loan_id: 162
+        - average_amount: 266363.0
+          loan_id: 165
+        - average_amount: 682596.0
+          loan_id: 168
+        - average_amount: 145180.0
+          loan_id: 172
+        - average_amount: 239541.0
+          loan_id: 177
+        - average_amount: 221214.0
+          loan_id: 184
+        - average_amount: 13215.0
+          loan_id: 189
+        - average_amount: 384283.0
+          loan_id: 194
+        - average_amount: 601755.0
+          loan_id: 198
+        - average_amount: 204394.0
+          loan_id: 205
+        - average_amount: 527053.0
+          loan_id: 213
+        - average_amount: 460279.0
+          loan_id: 224
+        - average_amount: 34461.0
+          loan_id: 225
+        - average_amount: 747794.0
+          loan_id: 229
+        - average_amount: 969594.0
+          loan_id: 235
+        - average_amount: 610572.0
+          loan_id: 237
+        - average_amount: 579517.0
+          loan_id: 255
+        - average_amount: 955642.0
+          loan_id: 257
+        - average_amount: 845823.0
+          loan_id: 264
+        - average_amount: 606527.0
+          loan_id: 273
+        - average_amount: 197533.0
+          loan_id: 287
+        - average_amount: 515406.0
+          loan_id: 288
+        - average_amount: 377292.0
+          loan_id: 323
+        - average_amount: 609207.0
+          loan_id: 326
+        - average_amount: 626546.0
+          loan_id: 332
+        - average_amount: 642809.0
+          loan_id: 341
+        - average_amount: 218090.0
+          loan_id: 360
+        - average_amount: 716632.0
+          loan_id: 366
+        - average_amount: 551161.0
+          loan_id: 371
+        - average_amount: 653067.0
+          loan_id: 374
+        - average_amount: 483808.0
+          loan_id: 379
+        - average_amount: 504151.0
+          loan_id: 383
+        - average_amount: 202758.0
+          loan_id: 408
+        - average_amount: 191640.0
+          loan_id: 409
+        - average_amount: 8659.0
+          loan_id: 419
+        - average_amount: 934632.0
+          loan_id: 422
+        - average_amount: 57621.0
+          loan_id: 423
+        - average_amount: 153574.0
+          loan_id: 444
+        - average_amount: 464845.0
+          loan_id: 457
+        - average_amount: 463896.0
+          loan_id: 458
+        - average_amount: 425025.0
+          loan_id: 462
+        - average_amount: 783980.0
+          loan_id: 482
+        - average_amount: 877772.0
+          loan_id: 486
+        - average_amount: 48698.0
+          loan_id: 496
+        - average_amount: 311505.0
+          loan_id: 498
+        - average_amount: 441.0
+          loan_id: 500
       LoansThisYear:
         rows:
         - loan_id: 11
@@ -5275,192 +5275,6 @@ sqlmesh_test_suite_id:
           sql_df_this_year_count: 1
         - loan_id: 480
           sql_df_this_year_count: 1
-        - loan_id: 7
-          sql_df_this_year_count: 1
-        - loan_id: 8
-          sql_df_this_year_count: 1
-        - loan_id: 48
-          sql_df_this_year_count: 1
-        - loan_id: 57
-          sql_df_this_year_count: 1
-        - loan_id: 61
-          sql_df_this_year_count: 1
-        - loan_id: 86
-          sql_df_this_year_count: 1
-        - loan_id: 90
-          sql_df_this_year_count: 1
-        - loan_id: 102
-          sql_df_this_year_count: 1
-        - loan_id: 127
-          sql_df_this_year_count: 1
-        - loan_id: 153
-          sql_df_this_year_count: 1
-        - loan_id: 169
-          sql_df_this_year_count: 1
-        - loan_id: 250
-          sql_df_this_year_count: 1
-        - loan_id: 272
-          sql_df_this_year_count: 1
-        - loan_id: 335
-          sql_df_this_year_count: 1
-        - loan_id: 340
-          sql_df_this_year_count: 1
-        - loan_id: 369
-          sql_df_this_year_count: 1
-        - loan_id: 406
-          sql_df_this_year_count: 1
-        - loan_id: 427
-          sql_df_this_year_count: 1
-        - loan_id: 439
-          sql_df_this_year_count: 1
-        - loan_id: 3
-          sql_df_this_year_count: 1
-        - loan_id: 68
-          sql_df_this_year_count: 1
-        - loan_id: 69
-          sql_df_this_year_count: 1
-        - loan_id: 105
-          sql_df_this_year_count: 1
-        - loan_id: 147
-          sql_df_this_year_count: 1
-        - loan_id: 164
-          sql_df_this_year_count: 1
-        - loan_id: 185
-          sql_df_this_year_count: 1
-        - loan_id: 262
-          sql_df_this_year_count: 1
-        - loan_id: 304
-          sql_df_this_year_count: 1
-        - loan_id: 339
-          sql_df_this_year_count: 1
-        - loan_id: 447
-          sql_df_this_year_count: 1
-        - loan_id: 460
-          sql_df_this_year_count: 1
-        - loan_id: 461
-          sql_df_this_year_count: 1
-        - loan_id: 488
-          sql_df_this_year_count: 1
-        - loan_id: 42
-          sql_df_this_year_count: 1
-        - loan_id: 70
-          sql_df_this_year_count: 1
-        - loan_id: 74
-          sql_df_this_year_count: 1
-        - loan_id: 108
-          sql_df_this_year_count: 1
-        - loan_id: 124
-          sql_df_this_year_count: 1
-        - loan_id: 125
-          sql_df_this_year_count: 1
-        - loan_id: 139
-          sql_df_this_year_count: 1
-        - loan_id: 159
-          sql_df_this_year_count: 1
-        - loan_id: 190
-          sql_df_this_year_count: 1
-        - loan_id: 289
-          sql_df_this_year_count: 1
-        - loan_id: 319
-          sql_df_this_year_count: 1
-        - loan_id: 337
-          sql_df_this_year_count: 1
-        - loan_id: 357
-          sql_df_this_year_count: 1
-        - loan_id: 378
-          sql_df_this_year_count: 1
-        - loan_id: 429
-          sql_df_this_year_count: 1
-        - loan_id: 481
-          sql_df_this_year_count: 1
-        - loan_id: 33
-          sql_df_this_year_count: 1
-        - loan_id: 53
-          sql_df_this_year_count: 1
-        - loan_id: 113
-          sql_df_this_year_count: 1
-        - loan_id: 126
-          sql_df_this_year_count: 1
-        - loan_id: 151
-          sql_df_this_year_count: 1
-        - loan_id: 161
-          sql_df_this_year_count: 1
-        - loan_id: 171
-          sql_df_this_year_count: 1
-        - loan_id: 176
-          sql_df_this_year_count: 1
-        - loan_id: 203
-          sql_df_this_year_count: 1
-        - loan_id: 271
-          sql_df_this_year_count: 1
-        - loan_id: 284
-          sql_df_this_year_count: 1
-        - loan_id: 290
-          sql_df_this_year_count: 1
-        - loan_id: 349
-          sql_df_this_year_count: 1
-        - loan_id: 372
-          sql_df_this_year_count: 1
-        - loan_id: 424
-          sql_df_this_year_count: 1
-        - loan_id: 456
-          sql_df_this_year_count: 1
-        - loan_id: 465
-          sql_df_this_year_count: 1
-        - loan_id: 473
-          sql_df_this_year_count: 1
-        - loan_id: 133
-          sql_df_this_year_count: 1
-        - loan_id: 148
-          sql_df_this_year_count: 1
-        - loan_id: 157
-          sql_df_this_year_count: 1
-        - loan_id: 219
-          sql_df_this_year_count: 1
-        - loan_id: 226
-          sql_df_this_year_count: 1
-        - loan_id: 245
-          sql_df_this_year_count: 1
-        - loan_id: 252
-          sql_df_this_year_count: 1
-        - loan_id: 278
-          sql_df_this_year_count: 1
-        - loan_id: 291
-          sql_df_this_year_count: 1
-        - loan_id: 334
-          sql_df_this_year_count: 1
-        - loan_id: 400
-          sql_df_this_year_count: 1
-        - loan_id: 404
-          sql_df_this_year_count: 1
-        - loan_id: 435
-          sql_df_this_year_count: 1
-        - loan_id: 449
-          sql_df_this_year_count: 1
-        - loan_id: 65
-          sql_df_this_year_count: 1
-        - loan_id: 96
-          sql_df_this_year_count: 1
-        - loan_id: 104
-          sql_df_this_year_count: 1
-        - loan_id: 114
-          sql_df_this_year_count: 1
-        - loan_id: 115
-          sql_df_this_year_count: 1
-        - loan_id: 257
-          sql_df_this_year_count: 1
-        - loan_id: 332
-          sql_df_this_year_count: 1
-        - loan_id: 341
-          sql_df_this_year_count: 1
-        - loan_id: 383
-          sql_df_this_year_count: 1
-        - loan_id: 419
-          sql_df_this_year_count: 1
-        - loan_id: 462
-          sql_df_this_year_count: 1
-        - loan_id: 498
-          sql_df_this_year_count: 1
         - loan_id: 34
           sql_df_this_year_count: 1
         - loan_id: 117
@@ -5499,8 +5313,332 @@ sqlmesh_test_suite_id:
           sql_df_this_year_count: 1
         - loan_id: 489
           sql_df_this_year_count: 1
+        - loan_id: 33
+          sql_df_this_year_count: 1
+        - loan_id: 53
+          sql_df_this_year_count: 1
+        - loan_id: 113
+          sql_df_this_year_count: 1
+        - loan_id: 126
+          sql_df_this_year_count: 1
+        - loan_id: 151
+          sql_df_this_year_count: 1
+        - loan_id: 161
+          sql_df_this_year_count: 1
+        - loan_id: 171
+          sql_df_this_year_count: 1
+        - loan_id: 176
+          sql_df_this_year_count: 1
+        - loan_id: 203
+          sql_df_this_year_count: 1
+        - loan_id: 271
+          sql_df_this_year_count: 1
+        - loan_id: 284
+          sql_df_this_year_count: 1
+        - loan_id: 290
+          sql_df_this_year_count: 1
+        - loan_id: 349
+          sql_df_this_year_count: 1
+        - loan_id: 372
+          sql_df_this_year_count: 1
+        - loan_id: 424
+          sql_df_this_year_count: 1
+        - loan_id: 456
+          sql_df_this_year_count: 1
+        - loan_id: 465
+          sql_df_this_year_count: 1
+        - loan_id: 473
+          sql_df_this_year_count: 1
+        - loan_id: 42
+          sql_df_this_year_count: 1
+        - loan_id: 70
+          sql_df_this_year_count: 1
+        - loan_id: 74
+          sql_df_this_year_count: 1
+        - loan_id: 108
+          sql_df_this_year_count: 1
+        - loan_id: 124
+          sql_df_this_year_count: 1
+        - loan_id: 125
+          sql_df_this_year_count: 1
+        - loan_id: 139
+          sql_df_this_year_count: 1
+        - loan_id: 159
+          sql_df_this_year_count: 1
+        - loan_id: 190
+          sql_df_this_year_count: 1
+        - loan_id: 289
+          sql_df_this_year_count: 1
+        - loan_id: 319
+          sql_df_this_year_count: 1
+        - loan_id: 337
+          sql_df_this_year_count: 1
+        - loan_id: 357
+          sql_df_this_year_count: 1
+        - loan_id: 378
+          sql_df_this_year_count: 1
+        - loan_id: 429
+          sql_df_this_year_count: 1
+        - loan_id: 481
+          sql_df_this_year_count: 1
+        - loan_id: 65
+          sql_df_this_year_count: 1
+        - loan_id: 96
+          sql_df_this_year_count: 1
+        - loan_id: 104
+          sql_df_this_year_count: 1
+        - loan_id: 114
+          sql_df_this_year_count: 1
+        - loan_id: 115
+          sql_df_this_year_count: 1
+        - loan_id: 257
+          sql_df_this_year_count: 1
+        - loan_id: 332
+          sql_df_this_year_count: 1
+        - loan_id: 341
+          sql_df_this_year_count: 1
+        - loan_id: 383
+          sql_df_this_year_count: 1
+        - loan_id: 419
+          sql_df_this_year_count: 1
+        - loan_id: 462
+          sql_df_this_year_count: 1
+        - loan_id: 498
+          sql_df_this_year_count: 1
+        - loan_id: 7
+          sql_df_this_year_count: 1
+        - loan_id: 8
+          sql_df_this_year_count: 1
+        - loan_id: 48
+          sql_df_this_year_count: 1
+        - loan_id: 57
+          sql_df_this_year_count: 1
+        - loan_id: 61
+          sql_df_this_year_count: 1
+        - loan_id: 86
+          sql_df_this_year_count: 1
+        - loan_id: 90
+          sql_df_this_year_count: 1
+        - loan_id: 102
+          sql_df_this_year_count: 1
+        - loan_id: 127
+          sql_df_this_year_count: 1
+        - loan_id: 153
+          sql_df_this_year_count: 1
+        - loan_id: 169
+          sql_df_this_year_count: 1
+        - loan_id: 250
+          sql_df_this_year_count: 1
+        - loan_id: 272
+          sql_df_this_year_count: 1
+        - loan_id: 335
+          sql_df_this_year_count: 1
+        - loan_id: 340
+          sql_df_this_year_count: 1
+        - loan_id: 369
+          sql_df_this_year_count: 1
+        - loan_id: 406
+          sql_df_this_year_count: 1
+        - loan_id: 427
+          sql_df_this_year_count: 1
+        - loan_id: 439
+          sql_df_this_year_count: 1
+        - loan_id: 133
+          sql_df_this_year_count: 1
+        - loan_id: 148
+          sql_df_this_year_count: 1
+        - loan_id: 157
+          sql_df_this_year_count: 1
+        - loan_id: 219
+          sql_df_this_year_count: 1
+        - loan_id: 226
+          sql_df_this_year_count: 1
+        - loan_id: 245
+          sql_df_this_year_count: 1
+        - loan_id: 252
+          sql_df_this_year_count: 1
+        - loan_id: 278
+          sql_df_this_year_count: 1
+        - loan_id: 291
+          sql_df_this_year_count: 1
+        - loan_id: 334
+          sql_df_this_year_count: 1
+        - loan_id: 400
+          sql_df_this_year_count: 1
+        - loan_id: 404
+          sql_df_this_year_count: 1
+        - loan_id: 435
+          sql_df_this_year_count: 1
+        - loan_id: 449
+          sql_df_this_year_count: 1
+        - loan_id: 3
+          sql_df_this_year_count: 1
+        - loan_id: 68
+          sql_df_this_year_count: 1
+        - loan_id: 69
+          sql_df_this_year_count: 1
+        - loan_id: 105
+          sql_df_this_year_count: 1
+        - loan_id: 147
+          sql_df_this_year_count: 1
+        - loan_id: 164
+          sql_df_this_year_count: 1
+        - loan_id: 185
+          sql_df_this_year_count: 1
+        - loan_id: 262
+          sql_df_this_year_count: 1
+        - loan_id: 304
+          sql_df_this_year_count: 1
+        - loan_id: 339
+          sql_df_this_year_count: 1
+        - loan_id: 447
+          sql_df_this_year_count: 1
+        - loan_id: 460
+          sql_df_this_year_count: 1
+        - loan_id: 461
+          sql_df_this_year_count: 1
+        - loan_id: 488
+          sql_df_this_year_count: 1
       OldestApplicant:
         rows:
+        - loan_id: 2
+          oldest_age: 54
+        - loan_id: 10
+          oldest_age: 59
+        - loan_id: 18
+          oldest_age: 53
+        - loan_id: 28
+          oldest_age: 27
+        - loan_id: 29
+          oldest_age: 26
+        - loan_id: 34
+          oldest_age: 50
+        - loan_id: 39
+          oldest_age: 43
+        - loan_id: 47
+          oldest_age: 49
+        - loan_id: 49
+          oldest_age: 44
+        - loan_id: 60
+          oldest_age: 29
+        - loan_id: 63
+          oldest_age: 31
+        - loan_id: 71
+          oldest_age: 42
+        - loan_id: 88
+          oldest_age: 57
+        - loan_id: 93
+          oldest_age: 60
+        - loan_id: 101
+          oldest_age: 43
+        - loan_id: 103
+          oldest_age: 56
+        - loan_id: 117
+          oldest_age: 37
+        - loan_id: 129
+          oldest_age: 59
+        - loan_id: 131
+          oldest_age: 55
+        - loan_id: 137
+          oldest_age: 47
+        - loan_id: 145
+          oldest_age: 53
+        - loan_id: 156
+          oldest_age: 46
+        - loan_id: 158
+          oldest_age: 56
+        - loan_id: 181
+          oldest_age: 24
+        - loan_id: 191
+          oldest_age: 54
+        - loan_id: 199
+          oldest_age: 36
+        - loan_id: 208
+          oldest_age: 58
+        - loan_id: 212
+          oldest_age: 28
+        - loan_id: 228
+          oldest_age: 32
+        - loan_id: 230
+          oldest_age: 49
+        - loan_id: 242
+          oldest_age: 51
+        - loan_id: 267
+          oldest_age: 47
+        - loan_id: 270
+          oldest_age: 36
+        - loan_id: 279
+          oldest_age: 49
+        - loan_id: 282
+          oldest_age: 20
+        - loan_id: 285
+          oldest_age: 37
+        - loan_id: 286
+          oldest_age: 43
+        - loan_id: 303
+          oldest_age: 25
+        - loan_id: 308
+          oldest_age: 30
+        - loan_id: 314
+          oldest_age: 57
+        - loan_id: 320
+          oldest_age: 23
+        - loan_id: 321
+          oldest_age: 50
+        - loan_id: 324
+          oldest_age: 37
+        - loan_id: 344
+          oldest_age: 38
+        - loan_id: 347
+          oldest_age: 33
+        - loan_id: 354
+          oldest_age: 60
+        - loan_id: 361
+          oldest_age: 58
+        - loan_id: 365
+          oldest_age: 59
+        - loan_id: 368
+          oldest_age: 22
+        - loan_id: 395
+          oldest_age: 46
+        - loan_id: 396
+          oldest_age: 28
+        - loan_id: 397
+          oldest_age: 36
+        - loan_id: 405
+          oldest_age: 49
+        - loan_id: 407
+          oldest_age: 34
+        - loan_id: 426
+          oldest_age: 48
+        - loan_id: 428
+          oldest_age: 39
+        - loan_id: 441
+          oldest_age: 43
+        - loan_id: 442
+          oldest_age: 23
+        - loan_id: 443
+          oldest_age: 51
+        - loan_id: 450
+          oldest_age: 47
+        - loan_id: 452
+          oldest_age: 50
+        - loan_id: 453
+          oldest_age: 51
+        - loan_id: 454
+          oldest_age: 35
+        - loan_id: 455
+          oldest_age: 51
+        - loan_id: 463
+          oldest_age: 37
+        - loan_id: 487
+          oldest_age: 57
+        - loan_id: 489
+          oldest_age: 27
+        - loan_id: 491
+          oldest_age: 51
+        - loan_id: 497
+          oldest_age: 48
         - loan_id: 5
           oldest_age: 50
         - loan_id: 9
@@ -6363,418 +6501,8 @@ sqlmesh_test_suite_id:
           oldest_age: 38
         - loan_id: 494
           oldest_age: 33
-        - loan_id: 2
-          oldest_age: 54
-        - loan_id: 10
-          oldest_age: 59
-        - loan_id: 18
-          oldest_age: 53
-        - loan_id: 28
-          oldest_age: 27
-        - loan_id: 29
-          oldest_age: 26
-        - loan_id: 34
-          oldest_age: 50
-        - loan_id: 39
-          oldest_age: 43
-        - loan_id: 47
-          oldest_age: 49
-        - loan_id: 49
-          oldest_age: 44
-        - loan_id: 60
-          oldest_age: 29
-        - loan_id: 63
-          oldest_age: 31
-        - loan_id: 71
-          oldest_age: 42
-        - loan_id: 88
-          oldest_age: 57
-        - loan_id: 93
-          oldest_age: 60
-        - loan_id: 101
-          oldest_age: 43
-        - loan_id: 103
-          oldest_age: 56
-        - loan_id: 117
-          oldest_age: 37
-        - loan_id: 129
-          oldest_age: 59
-        - loan_id: 131
-          oldest_age: 55
-        - loan_id: 137
-          oldest_age: 47
-        - loan_id: 145
-          oldest_age: 53
-        - loan_id: 156
-          oldest_age: 46
-        - loan_id: 158
-          oldest_age: 56
-        - loan_id: 181
-          oldest_age: 24
-        - loan_id: 191
-          oldest_age: 54
-        - loan_id: 199
-          oldest_age: 36
-        - loan_id: 208
-          oldest_age: 58
-        - loan_id: 212
-          oldest_age: 28
-        - loan_id: 228
-          oldest_age: 32
-        - loan_id: 230
-          oldest_age: 49
-        - loan_id: 242
-          oldest_age: 51
-        - loan_id: 267
-          oldest_age: 47
-        - loan_id: 270
-          oldest_age: 36
-        - loan_id: 279
-          oldest_age: 49
-        - loan_id: 282
-          oldest_age: 20
-        - loan_id: 285
-          oldest_age: 37
-        - loan_id: 286
-          oldest_age: 43
-        - loan_id: 303
-          oldest_age: 25
-        - loan_id: 308
-          oldest_age: 30
-        - loan_id: 314
-          oldest_age: 57
-        - loan_id: 320
-          oldest_age: 23
-        - loan_id: 321
-          oldest_age: 50
-        - loan_id: 324
-          oldest_age: 37
-        - loan_id: 344
-          oldest_age: 38
-        - loan_id: 347
-          oldest_age: 33
-        - loan_id: 354
-          oldest_age: 60
-        - loan_id: 361
-          oldest_age: 58
-        - loan_id: 365
-          oldest_age: 59
-        - loan_id: 368
-          oldest_age: 22
-        - loan_id: 395
-          oldest_age: 46
-        - loan_id: 396
-          oldest_age: 28
-        - loan_id: 397
-          oldest_age: 36
-        - loan_id: 405
-          oldest_age: 49
-        - loan_id: 407
-          oldest_age: 34
-        - loan_id: 426
-          oldest_age: 48
-        - loan_id: 428
-          oldest_age: 39
-        - loan_id: 441
-          oldest_age: 43
-        - loan_id: 442
-          oldest_age: 23
-        - loan_id: 443
-          oldest_age: 51
-        - loan_id: 450
-          oldest_age: 47
-        - loan_id: 452
-          oldest_age: 50
-        - loan_id: 453
-          oldest_age: 51
-        - loan_id: 454
-          oldest_age: 35
-        - loan_id: 455
-          oldest_age: 51
-        - loan_id: 463
-          oldest_age: 37
-        - loan_id: 487
-          oldest_age: 57
-        - loan_id: 489
-          oldest_age: 27
-        - loan_id: 491
-          oldest_age: 51
-        - loan_id: 497
-          oldest_age: 48
       YoungestApplicant:
         rows:
-        - loan_id: 11
-          youngest_age: 48
-        - loan_id: 15
-          youngest_age: 53
-        - loan_id: 16
-          youngest_age: 23
-        - loan_id: 22
-          youngest_age: 38
-        - loan_id: 26
-          youngest_age: 42
-        - loan_id: 31
-          youngest_age: 52
-        - loan_id: 32
-          youngest_age: 23
-        - loan_id: 52
-          youngest_age: 24
-        - loan_id: 55
-          youngest_age: 55
-        - loan_id: 67
-          youngest_age: 24
-        - loan_id: 81
-          youngest_age: 35
-        - loan_id: 83
-          youngest_age: 59
-        - loan_id: 91
-          youngest_age: 22
-        - loan_id: 92
-          youngest_age: 40
-        - loan_id: 97
-          youngest_age: 35
-        - loan_id: 110
-          youngest_age: 56
-        - loan_id: 118
-          youngest_age: 49
-        - loan_id: 122
-          youngest_age: 51
-        - loan_id: 132
-          youngest_age: 31
-        - loan_id: 134
-          youngest_age: 60
-        - loan_id: 155
-          youngest_age: 23
-        - loan_id: 163
-          youngest_age: 40
-        - loan_id: 166
-          youngest_age: 26
-        - loan_id: 179
-          youngest_age: 36
-        - loan_id: 180
-          youngest_age: 51
-        - loan_id: 182
-          youngest_age: 38
-        - loan_id: 183
-          youngest_age: 54
-        - loan_id: 204
-          youngest_age: 27
-        - loan_id: 220
-          youngest_age: 39
-        - loan_id: 236
-          youngest_age: 40
-        - loan_id: 238
-          youngest_age: 31
-        - loan_id: 244
-          youngest_age: 39
-        - loan_id: 249
-          youngest_age: 27
-        - loan_id: 253
-          youngest_age: 46
-        - loan_id: 254
-          youngest_age: 22
-        - loan_id: 259
-          youngest_age: 45
-        - loan_id: 268
-          youngest_age: 38
-        - loan_id: 275
-          youngest_age: 31
-        - loan_id: 280
-          youngest_age: 26
-        - loan_id: 298
-          youngest_age: 29
-        - loan_id: 301
-          youngest_age: 52
-        - loan_id: 306
-          youngest_age: 40
-        - loan_id: 307
-          youngest_age: 25
-        - loan_id: 310
-          youngest_age: 48
-        - loan_id: 312
-          youngest_age: 46
-        - loan_id: 313
-          youngest_age: 47
-        - loan_id: 317
-          youngest_age: 27
-        - loan_id: 338
-          youngest_age: 20
-        - loan_id: 350
-          youngest_age: 47
-        - loan_id: 351
-          youngest_age: 46
-        - loan_id: 355
-          youngest_age: 47
-        - loan_id: 358
-          youngest_age: 43
-        - loan_id: 364
-          youngest_age: 49
-        - loan_id: 387
-          youngest_age: 23
-        - loan_id: 393
-          youngest_age: 56
-        - loan_id: 401
-          youngest_age: 56
-        - loan_id: 403
-          youngest_age: 58
-        - loan_id: 418
-          youngest_age: 49
-        - loan_id: 432
-          youngest_age: 55
-        - loan_id: 440
-          youngest_age: 30
-        - loan_id: 459
-          youngest_age: 20
-        - loan_id: 467
-          youngest_age: 44
-        - loan_id: 472
-          youngest_age: 23
-        - loan_id: 476
-          youngest_age: 57
-        - loan_id: 479
-          youngest_age: 51
-        - loan_id: 480
-          youngest_age: 52
-        - loan_id: 485
-          youngest_age: 32
-        - loan_id: 5
-          youngest_age: 50
-        - loan_id: 9
-          youngest_age: 22
-        - loan_id: 14
-          youngest_age: 20
-        - loan_id: 17
-          youngest_age: 25
-        - loan_id: 30
-          youngest_age: 53
-        - loan_id: 35
-          youngest_age: 53
-        - loan_id: 37
-          youngest_age: 45
-        - loan_id: 44
-          youngest_age: 30
-        - loan_id: 54
-          youngest_age: 50
-        - loan_id: 62
-          youngest_age: 47
-        - loan_id: 64
-          youngest_age: 44
-        - loan_id: 65
-          youngest_age: 25
-        - loan_id: 75
-          youngest_age: 45
-        - loan_id: 79
-          youngest_age: 37
-        - loan_id: 85
-          youngest_age: 60
-        - loan_id: 96
-          youngest_age: 52
-        - loan_id: 104
-          youngest_age: 56
-        - loan_id: 114
-          youngest_age: 20
-        - loan_id: 115
-          youngest_age: 56
-        - loan_id: 135
-          youngest_age: 59
-        - loan_id: 143
-          youngest_age: 54
-        - loan_id: 154
-          youngest_age: 45
-        - loan_id: 160
-          youngest_age: 42
-        - loan_id: 162
-          youngest_age: 54
-        - loan_id: 165
-          youngest_age: 52
-        - loan_id: 168
-          youngest_age: 26
-        - loan_id: 172
-          youngest_age: 48
-        - loan_id: 177
-          youngest_age: 27
-        - loan_id: 184
-          youngest_age: 22
-        - loan_id: 189
-          youngest_age: 60
-        - loan_id: 194
-          youngest_age: 49
-        - loan_id: 198
-          youngest_age: 54
-        - loan_id: 205
-          youngest_age: 30
-        - loan_id: 213
-          youngest_age: 27
-        - loan_id: 224
-          youngest_age: 59
-        - loan_id: 225
-          youngest_age: 48
-        - loan_id: 229
-          youngest_age: 23
-        - loan_id: 235
-          youngest_age: 22
-        - loan_id: 237
-          youngest_age: 51
-        - loan_id: 255
-          youngest_age: 41
-        - loan_id: 257
-          youngest_age: 22
-        - loan_id: 264
-          youngest_age: 25
-        - loan_id: 273
-          youngest_age: 55
-        - loan_id: 287
-          youngest_age: 51
-        - loan_id: 288
-          youngest_age: 28
-        - loan_id: 323
-          youngest_age: 28
-        - loan_id: 326
-          youngest_age: 57
-        - loan_id: 332
-          youngest_age: 35
-        - loan_id: 341
-          youngest_age: 23
-        - loan_id: 360
-          youngest_age: 30
-        - loan_id: 366
-          youngest_age: 57
-        - loan_id: 371
-          youngest_age: 27
-        - loan_id: 374
-          youngest_age: 60
-        - loan_id: 379
-          youngest_age: 37
-        - loan_id: 383
-          youngest_age: 57
-        - loan_id: 408
-          youngest_age: 47
-        - loan_id: 409
-          youngest_age: 28
-        - loan_id: 419
-          youngest_age: 46
-        - loan_id: 422
-          youngest_age: 58
-        - loan_id: 423
-          youngest_age: 58
-        - loan_id: 444
-          youngest_age: 53
-        - loan_id: 457
-          youngest_age: 48
-        - loan_id: 458
-          youngest_age: 31
-        - loan_id: 462
-          youngest_age: 47
-        - loan_id: 482
-          youngest_age: 21
-        - loan_id: 486
-          youngest_age: 54
-        - loan_id: 496
-          youngest_age: 32
-        - loan_id: 498
-          youngest_age: 48
-        - loan_id: 500
-          youngest_age: 34
         - loan_id: 2
           youngest_age: 54
         - loan_id: 10
@@ -6913,6 +6641,258 @@ sqlmesh_test_suite_id:
           youngest_age: 51
         - loan_id: 497
           youngest_age: 48
+        - loan_id: 11
+          youngest_age: 48
+        - loan_id: 15
+          youngest_age: 53
+        - loan_id: 16
+          youngest_age: 23
+        - loan_id: 22
+          youngest_age: 38
+        - loan_id: 26
+          youngest_age: 42
+        - loan_id: 31
+          youngest_age: 52
+        - loan_id: 32
+          youngest_age: 23
+        - loan_id: 52
+          youngest_age: 24
+        - loan_id: 55
+          youngest_age: 55
+        - loan_id: 67
+          youngest_age: 24
+        - loan_id: 81
+          youngest_age: 35
+        - loan_id: 83
+          youngest_age: 59
+        - loan_id: 91
+          youngest_age: 22
+        - loan_id: 92
+          youngest_age: 40
+        - loan_id: 97
+          youngest_age: 35
+        - loan_id: 110
+          youngest_age: 56
+        - loan_id: 118
+          youngest_age: 49
+        - loan_id: 122
+          youngest_age: 51
+        - loan_id: 132
+          youngest_age: 31
+        - loan_id: 134
+          youngest_age: 60
+        - loan_id: 155
+          youngest_age: 23
+        - loan_id: 163
+          youngest_age: 40
+        - loan_id: 166
+          youngest_age: 26
+        - loan_id: 179
+          youngest_age: 36
+        - loan_id: 180
+          youngest_age: 51
+        - loan_id: 182
+          youngest_age: 38
+        - loan_id: 183
+          youngest_age: 54
+        - loan_id: 204
+          youngest_age: 27
+        - loan_id: 220
+          youngest_age: 39
+        - loan_id: 236
+          youngest_age: 40
+        - loan_id: 238
+          youngest_age: 31
+        - loan_id: 244
+          youngest_age: 39
+        - loan_id: 249
+          youngest_age: 27
+        - loan_id: 253
+          youngest_age: 46
+        - loan_id: 254
+          youngest_age: 22
+        - loan_id: 259
+          youngest_age: 45
+        - loan_id: 268
+          youngest_age: 38
+        - loan_id: 275
+          youngest_age: 31
+        - loan_id: 280
+          youngest_age: 26
+        - loan_id: 298
+          youngest_age: 29
+        - loan_id: 301
+          youngest_age: 52
+        - loan_id: 306
+          youngest_age: 40
+        - loan_id: 307
+          youngest_age: 25
+        - loan_id: 310
+          youngest_age: 48
+        - loan_id: 312
+          youngest_age: 46
+        - loan_id: 313
+          youngest_age: 47
+        - loan_id: 317
+          youngest_age: 27
+        - loan_id: 338
+          youngest_age: 20
+        - loan_id: 350
+          youngest_age: 47
+        - loan_id: 351
+          youngest_age: 46
+        - loan_id: 355
+          youngest_age: 47
+        - loan_id: 358
+          youngest_age: 43
+        - loan_id: 364
+          youngest_age: 49
+        - loan_id: 387
+          youngest_age: 23
+        - loan_id: 393
+          youngest_age: 56
+        - loan_id: 401
+          youngest_age: 56
+        - loan_id: 403
+          youngest_age: 58
+        - loan_id: 418
+          youngest_age: 49
+        - loan_id: 432
+          youngest_age: 55
+        - loan_id: 440
+          youngest_age: 30
+        - loan_id: 459
+          youngest_age: 20
+        - loan_id: 467
+          youngest_age: 44
+        - loan_id: 472
+          youngest_age: 23
+        - loan_id: 476
+          youngest_age: 57
+        - loan_id: 479
+          youngest_age: 51
+        - loan_id: 480
+          youngest_age: 52
+        - loan_id: 485
+          youngest_age: 32
+        - loan_id: 42
+          youngest_age: 24
+        - loan_id: 50
+          youngest_age: 36
+        - loan_id: 70
+          youngest_age: 46
+        - loan_id: 74
+          youngest_age: 55
+        - loan_id: 107
+          youngest_age: 38
+        - loan_id: 108
+          youngest_age: 27
+        - loan_id: 124
+          youngest_age: 22
+        - loan_id: 125
+          youngest_age: 34
+        - loan_id: 128
+          youngest_age: 54
+        - loan_id: 130
+          youngest_age: 52
+        - loan_id: 139
+          youngest_age: 44
+        - loan_id: 150
+          youngest_age: 57
+        - loan_id: 159
+          youngest_age: 45
+        - loan_id: 167
+          youngest_age: 56
+        - loan_id: 170
+          youngest_age: 59
+        - loan_id: 173
+          youngest_age: 29
+        - loan_id: 174
+          youngest_age: 34
+        - loan_id: 190
+          youngest_age: 33
+        - loan_id: 192
+          youngest_age: 54
+        - loan_id: 195
+          youngest_age: 46
+        - loan_id: 200
+          youngest_age: 51
+        - loan_id: 207
+          youngest_age: 37
+        - loan_id: 217
+          youngest_age: 46
+        - loan_id: 239
+          youngest_age: 40
+        - loan_id: 246
+          youngest_age: 54
+        - loan_id: 251
+          youngest_age: 59
+        - loan_id: 266
+          youngest_age: 49
+        - loan_id: 277
+          youngest_age: 58
+        - loan_id: 289
+          youngest_age: 39
+        - loan_id: 296
+          youngest_age: 27
+        - loan_id: 309
+          youngest_age: 37
+        - loan_id: 319
+          youngest_age: 44
+        - loan_id: 325
+          youngest_age: 43
+        - loan_id: 330
+          youngest_age: 35
+        - loan_id: 336
+          youngest_age: 49
+        - loan_id: 337
+          youngest_age: 44
+        - loan_id: 343
+          youngest_age: 32
+        - loan_id: 357
+          youngest_age: 42
+        - loan_id: 367
+          youngest_age: 46
+        - loan_id: 375
+          youngest_age: 32
+        - loan_id: 378
+          youngest_age: 47
+        - loan_id: 381
+          youngest_age: 47
+        - loan_id: 385
+          youngest_age: 46
+        - loan_id: 388
+          youngest_age: 55
+        - loan_id: 391
+          youngest_age: 37
+        - loan_id: 410
+          youngest_age: 25
+        - loan_id: 413
+          youngest_age: 24
+        - loan_id: 429
+          youngest_age: 45
+        - loan_id: 438
+          youngest_age: 32
+        - loan_id: 445
+          youngest_age: 43
+        - loan_id: 448
+          youngest_age: 59
+        - loan_id: 466
+          youngest_age: 60
+        - loan_id: 470
+          youngest_age: 57
+        - loan_id: 471
+          youngest_age: 40
+        - loan_id: 474
+          youngest_age: 43
+        - loan_id: 475
+          youngest_age: 58
+        - loan_id: 481
+          youngest_age: 40
+        - loan_id: 490
+          youngest_age: 38
+        - loan_id: 494
+          youngest_age: 33
         - loan_id: 1
           youngest_age: 39
         - loan_id: 21
@@ -7141,124 +7121,144 @@ sqlmesh_test_suite_id:
           youngest_age: 27
         - loan_id: 499
           youngest_age: 40
-        - loan_id: 42
-          youngest_age: 24
-        - loan_id: 50
-          youngest_age: 36
-        - loan_id: 70
-          youngest_age: 46
-        - loan_id: 74
-          youngest_age: 55
-        - loan_id: 107
-          youngest_age: 38
-        - loan_id: 108
-          youngest_age: 27
-        - loan_id: 124
+        - loan_id: 5
+          youngest_age: 50
+        - loan_id: 9
           youngest_age: 22
-        - loan_id: 125
-          youngest_age: 34
-        - loan_id: 128
-          youngest_age: 54
-        - loan_id: 130
-          youngest_age: 52
-        - loan_id: 139
-          youngest_age: 44
-        - loan_id: 150
-          youngest_age: 57
-        - loan_id: 159
-          youngest_age: 45
-        - loan_id: 167
-          youngest_age: 56
-        - loan_id: 170
-          youngest_age: 59
-        - loan_id: 173
-          youngest_age: 29
-        - loan_id: 174
-          youngest_age: 34
-        - loan_id: 190
-          youngest_age: 33
-        - loan_id: 192
-          youngest_age: 54
-        - loan_id: 195
-          youngest_age: 46
-        - loan_id: 200
-          youngest_age: 51
-        - loan_id: 207
-          youngest_age: 37
-        - loan_id: 217
-          youngest_age: 46
-        - loan_id: 239
-          youngest_age: 40
-        - loan_id: 246
-          youngest_age: 54
-        - loan_id: 251
-          youngest_age: 59
-        - loan_id: 266
-          youngest_age: 49
-        - loan_id: 277
-          youngest_age: 58
-        - loan_id: 289
-          youngest_age: 39
-        - loan_id: 296
-          youngest_age: 27
-        - loan_id: 309
-          youngest_age: 37
-        - loan_id: 319
-          youngest_age: 44
-        - loan_id: 325
-          youngest_age: 43
-        - loan_id: 330
-          youngest_age: 35
-        - loan_id: 336
-          youngest_age: 49
-        - loan_id: 337
-          youngest_age: 44
-        - loan_id: 343
-          youngest_age: 32
-        - loan_id: 357
-          youngest_age: 42
-        - loan_id: 367
-          youngest_age: 46
-        - loan_id: 375
-          youngest_age: 32
-        - loan_id: 378
-          youngest_age: 47
-        - loan_id: 381
-          youngest_age: 47
-        - loan_id: 385
-          youngest_age: 46
-        - loan_id: 388
-          youngest_age: 55
-        - loan_id: 391
-          youngest_age: 37
-        - loan_id: 410
+        - loan_id: 14
+          youngest_age: 20
+        - loan_id: 17
           youngest_age: 25
-        - loan_id: 413
-          youngest_age: 24
-        - loan_id: 429
+        - loan_id: 30
+          youngest_age: 53
+        - loan_id: 35
+          youngest_age: 53
+        - loan_id: 37
           youngest_age: 45
-        - loan_id: 438
-          youngest_age: 32
-        - loan_id: 445
-          youngest_age: 43
-        - loan_id: 448
-          youngest_age: 59
-        - loan_id: 466
+        - loan_id: 44
+          youngest_age: 30
+        - loan_id: 54
+          youngest_age: 50
+        - loan_id: 62
+          youngest_age: 47
+        - loan_id: 64
+          youngest_age: 44
+        - loan_id: 65
+          youngest_age: 25
+        - loan_id: 75
+          youngest_age: 45
+        - loan_id: 79
+          youngest_age: 37
+        - loan_id: 85
           youngest_age: 60
-        - loan_id: 470
+        - loan_id: 96
+          youngest_age: 52
+        - loan_id: 104
+          youngest_age: 56
+        - loan_id: 114
+          youngest_age: 20
+        - loan_id: 115
+          youngest_age: 56
+        - loan_id: 135
+          youngest_age: 59
+        - loan_id: 143
+          youngest_age: 54
+        - loan_id: 154
+          youngest_age: 45
+        - loan_id: 160
+          youngest_age: 42
+        - loan_id: 162
+          youngest_age: 54
+        - loan_id: 165
+          youngest_age: 52
+        - loan_id: 168
+          youngest_age: 26
+        - loan_id: 172
+          youngest_age: 48
+        - loan_id: 177
+          youngest_age: 27
+        - loan_id: 184
+          youngest_age: 22
+        - loan_id: 189
+          youngest_age: 60
+        - loan_id: 194
+          youngest_age: 49
+        - loan_id: 198
+          youngest_age: 54
+        - loan_id: 205
+          youngest_age: 30
+        - loan_id: 213
+          youngest_age: 27
+        - loan_id: 224
+          youngest_age: 59
+        - loan_id: 225
+          youngest_age: 48
+        - loan_id: 229
+          youngest_age: 23
+        - loan_id: 235
+          youngest_age: 22
+        - loan_id: 237
+          youngest_age: 51
+        - loan_id: 255
+          youngest_age: 41
+        - loan_id: 257
+          youngest_age: 22
+        - loan_id: 264
+          youngest_age: 25
+        - loan_id: 273
+          youngest_age: 55
+        - loan_id: 287
+          youngest_age: 51
+        - loan_id: 288
+          youngest_age: 28
+        - loan_id: 323
+          youngest_age: 28
+        - loan_id: 326
           youngest_age: 57
-        - loan_id: 471
-          youngest_age: 40
-        - loan_id: 474
-          youngest_age: 43
-        - loan_id: 475
+        - loan_id: 332
+          youngest_age: 35
+        - loan_id: 341
+          youngest_age: 23
+        - loan_id: 360
+          youngest_age: 30
+        - loan_id: 366
+          youngest_age: 57
+        - loan_id: 371
+          youngest_age: 27
+        - loan_id: 374
+          youngest_age: 60
+        - loan_id: 379
+          youngest_age: 37
+        - loan_id: 383
+          youngest_age: 57
+        - loan_id: 408
+          youngest_age: 47
+        - loan_id: 409
+          youngest_age: 28
+        - loan_id: 419
+          youngest_age: 46
+        - loan_id: 422
           youngest_age: 58
-        - loan_id: 481
-          youngest_age: 40
-        - loan_id: 490
-          youngest_age: 38
-        - loan_id: 494
-          youngest_age: 33
+        - loan_id: 423
+          youngest_age: 58
+        - loan_id: 444
+          youngest_age: 53
+        - loan_id: 457
+          youngest_age: 48
+        - loan_id: 458
+          youngest_age: 31
+        - loan_id: 462
+          youngest_age: 47
+        - loan_id: 482
+          youngest_age: 21
+        - loan_id: 486
+          youngest_age: 54
+        - loan_id: 496
+          youngest_age: 32
+        - loan_id: 498
+          youngest_age: 48
+        - loan_id: 500
+          youngest_age: 34
         - loan_id: 7
           youngest_age: 28
         - loan_id: 8

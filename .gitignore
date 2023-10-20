@@ -1,5 +1,5 @@
 .DS_Store
-
-sqlmesh_example
-
-notebooks/sqlmesh.ipynb
+.pytest_cache
+sqlmesh_example/
+notebooks/
+docs/notes/data-unit-tests.md
