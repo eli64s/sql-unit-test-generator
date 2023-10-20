@@ -1,3 +1,5 @@
+"""SQLMesh yaml file unit-test generator."""
+
 import logging
 from pathlib import Path
 from typing import Any, Dict
@@ -5,10 +7,15 @@ from typing import Any, Dict
 import duckdb
 import pandas as pd
 import sqlglot
+import typer
 import yaml
 
+app = typer.Typer()
 
-class DataUnitTest:
+
+class TestGenerator:
+    """This class generates a YAML test file for a given model and dataset."""
+
     def __init__(self, path: str, model_name: str, model_sql: str):
         self.path = path
         self.model_name = model_name
@@ -17,7 +24,10 @@ class DataUnitTest:
 
     def fetch_test_dataset(self, path) -> pd.DataFrame:
         try:
-            return pd.read_csv(path)
+            df = pd.read_csv(path)
+            # df["application_date"] = pd.to_datetime(df["application_date"])
+            # df["application_date"] = df["application_date"].dt.strftime("%Y-%m-%dT%H:%M:%S)
+            return df
         except Exception as e:
             raise Exception(f"Error fetching test dataset: {e}")
 
@@ -37,8 +47,8 @@ class DataUnitTest:
                             query, write="duckdb", identify=True, pretty=True
                         )[0]
                         cte_map[cte.alias] = query
-            except AttributeError as e:
-                logging.error(f"Error extracting CTEs: {e}")
+            except:
+                pass
 
             if type(stmt).__name__ == "Command":
                 stmt_type = type(stmt).expression
@@ -102,23 +112,25 @@ def modify_yaml(file_path, data):
         yaml.dump(data, f, default_flow_style=False, sort_keys=False)
 
 
-if __name__ == "__main__":
-    logging.basicConfig(level=logging.INFO)
-
-    root = Path().cwd().parent
-    METRIC_DS_NM = "metric_loans"
-    DATA_FILE = root / f"data/test_{METRIC_DS_NM}.csv"
-    OUTPUT_FILE = root / f"tests/test_{METRIC_DS_NM}.yaml"
-    SQL_FILE = root / f"sql/test_{METRIC_DS_NM}.sql"
+@app.command()
+def main(metric: str = "loans"):
+    """Entry point for the CLI."""
+    root = Path().cwd()
+    METRIC_DS_NM = metric
+    DATA_FILE = root / f"data/seed_metric_{METRIC_DS_NM}.csv"
+    OUTPUT_FILE = root / f"tests/test_metric_{METRIC_DS_NM}_model.yaml"
+    SQL_FILE = root / f"sql/test_metric_{METRIC_DS_NM}_model.sql"
+    MODEL_NM = f"sqlmesh_example.test_metric_{METRIC_DS_NM}_model"
     with open(SQL_FILE, "r") as file:
         MODEL_SQL = file.read()
 
-    TEST_ID = f"sqlmesh_test_suite_id"
-    INPUT_MODEL = f"sqlmesh_test_id.{METRIC_DS_NM}_input_model"
-    MODEL_NM = f"sqlmesh_test_id.{METRIC_DS_NM}_full_model"
-
-    tester = DataUnitTest(DATA_FILE, MODEL_NM, MODEL_SQL)
+    tester = TestGenerator(DATA_FILE, MODEL_NM, MODEL_SQL)
     yaml_output = tester.run()
     modify_yaml(OUTPUT_FILE, yaml_output)
-
     logging.info(f"Generated test file: {OUTPUT_FILE}")
+
+
+if __name__ == "__main__":
+    TEST_ID = "sqlmesh_test_suite_id"
+    INPUT_MODEL = "sqlmesh_example.seed_model"
+    typer.run(main)
