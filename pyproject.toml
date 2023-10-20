@@ -1,0 +1,24 @@
+[tool.poetry]
+name = "sql-unit-test-generator"
+version = "0.1.0"
+description = "Automated SQLMesh unit test generator."
+authors = ["Eli <43382407+eli64s@users.noreply.github.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.9"
+Faker = "^19.11.0"
+sqlmesh = "^0.44.1"
+sqlglot = "^18.15.1"
+duckdb = "^0.9.1"
+PyYAML = "^6.0.1"
+
+[tool.poetry.group.dev.dependencies]
+black = "^23.10.0"
+isort = "*"
+flake8 = "*"
+pytest = "*"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
